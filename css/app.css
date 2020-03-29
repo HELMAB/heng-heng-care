@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Battambang|Nunito|Siemreap&display=swap');
+*,
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+span,
+b,
+a {
+    font-family: 'Battambang', 'Siemreap', 'Nunito', sans-serif, cursive !important;
+}
